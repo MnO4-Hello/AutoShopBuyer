@@ -1,0 +1,41 @@
+# ===== 构建产物 =====
+build/
+out/
+bin/
+output/
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# ===== Gradle =====
+.gradle/
+.gradle-cache/
+
+# ===== IDE =====
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+.metadata/
+*.launch
+eclipse
+
+# ===== 本地运行环境（存档 / 日志 / 账号信息）=====
+run/
+run-data/
+runs/
+logs/
+crash-reports/
+*.log
+
+# ===== 本地依赖与第三方模组（不随仓库分发）=====
+libs/
+
+# 本地调试素材
+错误报告/
+other_mod/
+.rikki/
+/META-INF/

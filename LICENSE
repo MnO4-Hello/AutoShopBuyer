@@ -1,0 +1,9 @@
+Copyright (c) 2026 AGen. All Rights Reserved.
+
+本仓库中的模组代码（src/、构建脚本、资源文件）版权归 AGen 所有，保留所有权利。
+未经作者书面许可，不得再分发、修改后再发布，或用于商业整合包。
+
+This project's own source code is All Rights Reserved.
+
+注：仓库中的 LICENSE-Forge-MDK.txt 与 CREDITS-Forge-MDK.txt 来自 MinecraftForge MDK 模板，
+仅适用于 Forge / Forge Mod Loader 相关代码，不适用于本项目自身代码。
